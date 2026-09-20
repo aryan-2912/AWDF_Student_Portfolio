@@ -1,5 +1,6 @@
 import About from "../components/About";
 import Skills from "../components/Skills";
+import GitHubRepositories from "../components/GitHubRepositories";
 
 function Home() {
   const skills = [
@@ -17,6 +18,7 @@ function Home() {
     <>
       <About />
       <Skills skillList={skills} />
+      <GitHubRepositories />
     </>
   );
 }
