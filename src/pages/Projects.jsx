@@ -47,7 +47,7 @@ function Projects() {
       technologies:
         "React | Vite | JavaScript",
         portfolio:
-    "https://github.com/aryan-2912/AWDF_Student_Portfolio",
+  "https://awdf-student-portfolio.vercel.app",
     },
   ];
 
